@@ -752,18 +752,29 @@
       "id": "MQsFaEyhdlo"
     },
     {
-      "produitId": 4,
-      "id": "FjNXSzBS3tw"
-    },
-    {
       "id": "8icx2rjs6",
       "produitId": 1
+    },
+    {
+      "id": "1j2hfq66v",
+      "produitId": 8
+    },
+    {
+      "id": "jr1atpv34",
+      "produitId": 12
     }
   ],
   "panier": [
     {
       "id": "p2o4ipyxe",
       "produitId": 1,
+      "quantite": 1,
+      "taille": null,
+      "couleur": null
+    },
+    {
+      "id": "f4fs07xh8",
+      "produitId": 8,
       "quantite": 1,
       "taille": null,
       "couleur": null
