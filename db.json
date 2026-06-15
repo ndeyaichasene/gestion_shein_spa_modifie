@@ -47,6 +47,14 @@
       "email": "khadija@gmail.com",
       "motDePasse": "khady",
       "role": "user"
+    },
+    {
+      "id": "hgr8eyihb",
+      "nom": "Binetou",
+      "address": "liberte 6",
+      "email": "binetou@gmail.com",
+      "motDePasse": "binetou",
+      "role": "user"
     }
   ],
   "produits": [
@@ -752,6 +760,14 @@
       "produitId": 1
     }
   ],
-  "panier": [],
+  "panier": [
+    {
+      "id": "p2o4ipyxe",
+      "produitId": 1,
+      "quantite": 1,
+      "taille": null,
+      "couleur": null
+    }
+  ],
   "$schema": "./node_modules/json-server/schema.json"
 }
