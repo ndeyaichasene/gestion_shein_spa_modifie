@@ -1,0 +1,757 @@
+{
+  "utilisateurs": [
+    {
+      "id": "1",
+      "nom": "aicha",
+      "address": "pikine",
+      "email": "admin@trendywear.com",
+      "motDePasse": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "nom": "kiki",
+      "address": "kiki",
+      "email": "kiki@gmail.com",
+      "motDePasse": "kiki",
+      "role": "user"
+    },
+    {
+      "id": "3",
+      "nom": "lolo",
+      "address": "lolo",
+      "email": "lolo@gmail.com",
+      "motDePasse": "lolo",
+      "role": "user"
+    },
+    {
+      "nom": "chacha",
+      "address": "malika",
+      "email": "cha@gmail.com",
+      "motDePasse": "cha",
+      "role": "user",
+      "id": "5ctPVIe64BI"
+    },
+    {
+      "nom": "Aicha",
+      "address": "paris",
+      "email": "aicha@gmail.com",
+      "motDePasse": "chacha",
+      "role": "user",
+      "id": "CI-bJGgvNzE"
+    },
+    {
+      "id": "jb4bwgcmd",
+      "nom": "khadija",
+      "address": "malika",
+      "email": "khadija@gmail.com",
+      "motDePasse": "khady",
+      "role": "user"
+    }
+  ],
+  "produits": [
+    {
+      "id": "1",
+      "nom": "Ensemble fleurette",
+      "description": "Soie Organique",
+      "prix": 89.58,
+      "stock": 15,
+      "image": "/public/images/eteHom.jpg",
+      "imageDetail": "/public/images/eteHomO.jpg",
+      "icone": "fa-vest",
+      "categorie": "Femmes",
+      "titreDetail": "Fluidité naturelle",
+      "descriptionLongue": "2 pièces Ensemble Top à manches courtes avec imprimé tout-sur-tout et boutons sur le col, et short à nouer devant. Tenues confortables, vacances Orange Loisirs-Vacances ",
+      "materiaux": [
+        "Soie organique 100%",
+        "Doublure intérieure légère",
+        "Coupe ajustable à la taille",
+        "Fermeture éclair invisible au dos",
+        "Fabriqué en France"
+      ],
+      "entretien": [
+        "Lavage à la main à l'eau froide",
+        "Séchage à plat à l'ombre",
+        "Repasser à basse température sur l'envers",
+        "Éviter l'exposition prolongée au soleil"
+      ],
+      "tailles": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "couleurs": [
+        {
+          "hex": "#C48EA4",
+          "nom": "Azur"
+        },
+        {
+          "hex": "#C24F10",
+          "nom": "Ivoire"
+        },
+        {
+          "hex": "#2c3e50",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 18
+    },
+    {
+      "id": "2",
+      "nom": "Manteau coton",
+      "description": "Des couleurs qui illuminent votre style avec élégance.",
+      "prix": 89.58,
+      "stock": 5,
+      "image": "/public/images/bgc.webp",
+      "imageDetail": "/public/images/prada.jpg",
+      "icone": "fa-vest",
+      "categorie": "Femmes",
+      "titreDetail": " Le manteau idéal pour une allure moderne et raffiné",
+      "descriptionLongue": "Apportez une touche de fraîcheur à votre garde-robe avec ce manteau en coton pour femme aux couleurs élégantes. Léger, confortable et tendance, il s'adapte parfaitement à toutes vos tenues pour un look chic au quotidien.",
+      "materiaux": [
+        "100 % coton de qualité",
+        "Doublure intérieure légère",
+        "Coupe ajustable à la taille",
+        "Tissu doux,respirant et agréable à porter,",
+        "Fabriqué en France"
+      ],
+      "entretien": [
+        "Lavage à la main à l'eau froide",
+        "Séchage à plat à l'ombre",
+        "Repasser à basse température sur l'envers",
+        "Éviter l'exposition prolongée au soleil"
+      ],
+      "tailles": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "couleurs": [
+        {
+          "hex": "#5b7fa6",
+          "nom": "Azur"
+        },
+        {
+          "hex": "#f5ece6",
+          "nom": "Ivoire"
+        },
+        {
+          "hex": "#2c3e50",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 18
+    },
+    {
+      "id": "3",
+      "nom": "Sac à Main Structuré en pierre",
+      "description": "Cuir de Toscane",
+      "prix": 145,
+      "ancienPrix": 210,
+      "stock": 12,
+      "image": "/public/images/sacPierreLV.jpg",
+      "imageDetail": "/public/images/sacLVSerpent.jpg",
+      "icone": "fa-bag-shopping",
+      "badge": "-30%",
+      "categorie": "Femmes",
+      "titreDetail": "Savoir-faire artisanal",
+      "descriptionLongue": "Ce sac structuré en cuir pleine fleur de Toscane incarne l'artisanat italien dans toute sa splendeur. Son design épuré et ses finitions soignées en font un accessoire intemporel, pensé pour durer.",
+      "materiaux": [
+        "Cuir pleine fleur de Toscane",
+        "Doublure intérieure en coton",
+        "Poche zippée intérieure",
+        "Anses renforcées cousues main",
+        "Fabriqué en Italie"
+      ],
+      "entretien": [
+        "Nettoyer avec un chiffon doux et sec",
+        "Appliquer un baume nourrissant pour cuir",
+        "Éviter le contact prolongé avec l'eau",
+        "Ranger dans la housse fournie"
+      ],
+      "tailles": [
+        "Taille unique"
+      ],
+      "couleurs": [
+        {
+          "hex": "#3a2a1f",
+          "nom": "Marron foncé"
+        },
+        {
+          "hex": "#000000",
+          "nom": "Noir"
+        },
+        {
+          "hex": "#9B3F64",
+          "nom": "Cognac"
+        }
+      ],
+      "avis": 32
+    },
+    {
+      "id": "4",
+      "nom": "Pull Cachemire Nuit",
+      "description": "Collection Essentials",
+      "prix": 95,
+      "stock": 20,
+      "image": "/public/images/cachemireHom.jpg",
+      "imageDetail": "/public/images/cachemireFem.jpg",
+      "icone": "fa-person",
+      "categorie": "Hommes",
+      "titreDetail": "Douceur absolue",
+      "descriptionLongue": "Tricoté dans un cachemire d'exception, ce pull enveloppant offre une douceur incomparable. Sa teinte profonde et sa coupe épurée en font un essentiel de la collection Essentials, à porter en toute saison.",
+      "materiaux": [
+        "Cachemire 100%",
+        "Tricot fin double épaisseur",
+        "Col rond ajusté",
+        "Finitions côtelées aux poignets",
+        "Fabriqué en Écosse"
+      ],
+      "entretien": [
+        "Laver à la main à 30°C maximum",
+        "Sécher à plat, à l'horizontale",
+        "Ne pas essorer ni suspendre",
+        "Ranger plié pour préserver la forme"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#1c1c2e",
+          "nom": "Nuit"
+        },
+        {
+          "hex": "#8a8a8a",
+          "nom": "Gris chiné"
+        },
+        {
+          "hex": "#f5ece6",
+          "nom": "Écru"
+        }
+      ],
+      "avis": 15
+    },
+    {
+      "id": "5",
+      "nom": "Manteau Minimaliste Beige",
+      "description": "Le manteau qui allie élégance, qualité et confiance",
+      "prix": 129,
+      "stock": 45,
+      "image": "/public/images/ManteauCuire.jpg",
+      "imageDetail": "/public/images/manteau1.png",
+      "icone": "fa-shirt",
+      "badge": "NEW",
+      "categorie": "Femmes",
+      "titreDetail": "Élégance intemporelle",
+      "descriptionLongue": "Ce manteau minimaliste redéfinit l'élégance de la garde-robe d'hiver. Taillé dans un mélange de laine premium, il offre une silhouette structurée et intemporelle, parfaite pour sublimer toutes vos tenues du quotidien.",
+      "materiaux": [
+        "Laine mélangée 80%, Polyamide 20%",
+        "Doublure intérieure douce",
+        "Poches latérales discrètes",
+        "Fermeture à boutons nacrés",
+        "Fabriqué de manière responsable en Europe"
+      ],
+      "entretien": [
+        "Nettoyage à sec recommandé",
+        "Repasser à basse température",
+        "Ne pas mettre au sèche-linge",
+        "Aérer après chaque utilisation"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#5A3D2D",
+          "nom": "Anthracite"
+        },
+        {
+          "hex": "#0D0401",
+          "nom": "Beige"
+        },
+        {
+          "hex": "#f5ece6",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 24
+    },
+    {
+      "id": "6",
+      "nom": "Chemise Popeline Blanche",
+      "description": "Coton Égyptien",
+      "prix": 65,
+      "stock": 50,
+      "image": "/public/images/HOMMEblanc.jpg",
+      "imageDetail": "/public/images/summerHom.webp.jpg",
+      "icone": "fa-shirt",
+      "categorie": "Hommes",
+      "titreDetail": "Classique revisité",
+      "descriptionLongue": "Taillée dans un coton égyptien d'exception, cette chemise blanche allie tradition et modernité. Sa coupe ajustée et ses finitions soignées en font une pièce maîtresse, aussi bien au bureau qu'en soirée.",
+      "materiaux": [
+        "Coton égyptien 100%",
+        "Col classique boutonné",
+        "Coupe ajustée",
+        "Boutons en nacre véritable",
+        "Fabriqué au Portugal"
+      ],
+      "entretien": [
+        "Lavage en machine à 30°C",
+        "Repasser à température moyenne",
+        "Ne pas utiliser d'eau de javel",
+        "Séchage en machine à basse température"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#ffffff",
+          "nom": "Blanc"
+        },
+        {
+          "hex": "#cfd8dc",
+          "nom": "Bleu ciel"
+        },
+        {
+          "hex": "#1c1c2e",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 27
+    },
+    {
+      "id": "7",
+      "nom": "Chemise bleu",
+      "description": "✨ L'alliance parfaite entre élégance et confort pour l'été.",
+      "prix": 79,
+      "stock": 35,
+      "image": "/public/images/summerHom.webp",
+      "imageDetail": "/public/images/hom.jpg",
+      "icone": "fa-person",
+      "categorie": "Hommes",
+      "titreDetail": "💙 La chemise idéale pour un style chic et décontracté",
+      "descriptionLongue": "Apportez une touche de fraîcheur à votre garde-robe avec cette chemise d'été longue pour homme en bleu ciel. Sa coupe élégante et son tissu léger offrent un confort optimal tout en assurant un style moderne et raffiné.",
+      "materiaux": [
+        "Mélange de coton et de lin",
+        "tissu doux",
+        "léger et respirant pour un confort durable",
+        "Délavage vintage",
+        "Fabriqué au Turquie"
+      ],
+      "entretien": [
+        "Lavage à 30 °C",
+        "séchage à l'air libre",
+        "repassage à température modérée pour préserver la qualité et la couleur du tissu",
+        "Laver le moins possible pour préserver la teinte"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#7CA6E5",
+          "nom": "Indigo"
+        },
+        {
+          "hex": "#1c2538",
+          "nom": "Brut foncé"
+        },
+        {
+          "hex": "#5b6b8c",
+          "nom": "Délavé"
+        }
+      ],
+      "avis": 21
+    },
+    {
+      "id": "8",
+      "nom": "Louis Vuitton",
+      "description": "Louis Vuitton bag and heels in red",
+      "prix": 129,
+      "stock": 45,
+      "image": "/public/images/sacNoir.jpg ",
+      "imageDetail": "/public/images/rougeTalonSac.jpg ",
+      "icone": "fa-shirt",
+      "badge": "NEW",
+      "categorie": "Femmes",
+      "titreDetail": "💎 Des accessoires pensés pour vous démarquer",
+      "descriptionLongue": "Découvrez l'élégance signée Steve Madden avec cet ensemble composé d'un sac tendance et d'une paire d'escarpins raffinés. Alliant style moderne, finitions soignées et confort, ces accessoires apportent une touche chic et féminine à toutes vos tenues, que ce soit pour une sortie, une journée de travail ou une occasion spéciale..",
+      "materiaux": [
+        "Cuir mélangée 80%, Polyamide 20%",
+        "Doublure intérieure douce",
+        "Poches latérales discrètes",
+        "Éviter tout contact prolongé avec l'eau et l'humidité.",
+        "Fabriqué de manière responsable en Europe"
+      ],
+      "entretien": [
+        "Nettoyer avec un chiffon doux et sec",
+        "Repasser à basse température",
+        "Ne pas mettre au sèche-linge",
+        "Aérer après chaque utilisation"
+      ],
+      "tailles": [
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "couleurs": [
+        {
+          "hex": "#1c1c2e",
+          "nom": "Anthracite"
+        },
+        {
+          "hex": "#f5ece6",
+          "nom": "Beige"
+        },
+        {
+          "hex": "#4d0404",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 24
+    },
+    {
+      "id": "9",
+      "nom": "Robe en Soie",
+      "description": "La robe parfaite pour vous démarquer avec élégance.",
+      "prix": 129,
+      "stock": 45,
+      "image": "/public/images/robeSoie.webp",
+      "imageDetail": "/public/images/robeSoieV.webp",
+      "icone": "fa-shirt",
+      "badge": "NEW",
+      "categorie": "Femmes",
+      "titreDetail": "L'élégance intemporelle qui révèle votre beauté naturelle.",
+      "descriptionLongue": "Sublimez votre style avec cette robe en soie au tombé fluide et élégant. Douce, légère et raffinée, elle apporte une touche de féminité et de sophistication à toutes vos occasions.",
+      "materiaux": [
+        "100 % soie",
+        "Soie de haute qualité",
+        "Tissu en soie douce et légère",
+        "Soie satinée avec finition élégante",
+        "Fabriqué de manière responsable en Italie"
+      ],
+      "entretien": [
+        "Laver délicatement à la main ou en cycle doux",
+        "Utiliser une lessive adaptée aux tissus délicats",
+        "Ne pas utiliser d'eau de Javel et repasser à basse température si nécessaire",
+        "Conserver à l'abri de l'humidité et de la lumière directe pour préserver la qualité du tissu"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#D3A597",
+          "nom": "Anthracite"
+        },
+        {
+          "hex": "#68735D",
+          "nom": "Beige"
+        },
+        {
+          "hex": "#1c1c2e",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 24
+    },
+    {
+      "id": "10",
+      "nom": "Ensemble Hermès",
+      "description": "L'élégance qui fait toute la différence.",
+      "prix": 129,
+      "stock": 45,
+      "image": "/public/images/hermesOrange.jpg",
+      "imageDetail": "/public/images/hermesMarron.jpg",
+      "icone": "fa-shirt",
+      "badge": "NEW",
+      "categorie": "Femmes",
+      "titreDetail": "Sublimez chacune de vos sorties avec élégance",
+      "descriptionLongue": "Découvrez l'élégance intemporelle avec cet ensemble sac et chaussures inspiré du raffinement Hermès. Conçus pour sublimer toutes vos tenues, ces accessoires associent style, qualité et sophistication.",
+      "materiaux": [
+        "Cuir de haute qualité avec des finitions soignées",
+        "Doublure intérieure douce",
+        "offrant résistance",
+        "confort et durabilité.",
+        "Fabriqué de manière responsable en USA"
+      ],
+      "entretien": [
+        "Nettoyer délicatement avec un chiffon doux et sec",
+        "Eviter le contact prolongé avec l'eau",
+        "conserver dans un endroit sec afin de préserver la beauté et la qualité du cuir"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#EF7B54",
+          "nom": "Anthracite"
+        },
+        {
+          "hex": "#f5ece6",
+          "nom": "Beige"
+        },
+        {
+          "hex": "#AF6428",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 24
+    },
+    {
+      "id": "11",
+      "nom": "Manteau Minimaliste Beige",
+      "description": "Laine Mélangée Premium",
+      "prix": 129,
+      "stock": 45,
+      "image": "/public/images/manteauBeige.jpg",
+      "imageDetail": "/public/images/fondVeste.jpg",
+      "icone": "fa-shirt",
+      "badge": "NEW",
+      "categorie": "Femmes",
+      "titreDetail": "Élégance intemporelle",
+      "descriptionLongue": "Ce manteau minimaliste redéfinit l'élégance de la garde-robe d'hiver. Taillé dans un mélange de laine premium, il offre une silhouette structurée et intemporelle, parfaite pour sublimer toutes vos tenues du quotidien.",
+      "materiaux": [
+        "Laine mélangée 80%, Polyamide 20%",
+        "Doublure intérieure douce",
+        "Poches latérales discrètes",
+        "Fermeture à boutons nacrés",
+        "Fabriqué de manière responsable en Europe"
+      ],
+      "entretien": [
+        "Nettoyage à sec recommandé",
+        "Repasser à basse température",
+        "Ne pas mettre au sèche-linge",
+        "Aérer après chaque utilisation"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#A58A76",
+          "nom": "Anthracite"
+        },
+        {
+          "hex": "#f5ece6",
+          "nom": "Beige"
+        },
+        {
+          "hex": "#1c1c2e",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 24
+    },
+    {
+      "id": "12",
+      "nom": "Summer Dress",
+      "description": "La douceur et le style réunis pour un été tout en élégance.",
+      "prix": 129,
+      "stock": 40,
+      "image": "/public/images/ritaSummer.jpg",
+      "imageDetail": "/public/images/summer1.jpg",
+      "icone": "fa-shirt",
+      "badge": "NEW",
+      "categorie": "Femmes",
+      "titreDetail": "☀️ Une robe légère pour des journées ensoleillées.",
+      "descriptionLongue": "Craquez pour cette robe d'été en maille, légère et confortable, idéale pour un look tendance et décontracté. Sa coupe élégante met en valeur votre silhouette tout en offrant une grande liberté de mouvement.",
+      "materiaux": [
+        "Laine mélangée 80%, Polyamide 20%",
+        "Doublure intérieure douce",
+        "Poches latérales discrètes",
+        "Fermeture à boutons nacrés",
+        "Fabriqué de manière responsable en Europe"
+      ],
+      "entretien": [
+        "Nettoyage à sec recommandé",
+        "Repasser à basse température",
+        "Ne pas mettre au sèche-linge",
+        "Aérer après chaque utilisation"
+      ],
+      "tailles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "couleurs": [
+        {
+          "hex": "#079CD6",
+          "nom": "Anthracite"
+        },
+        {
+          "hex": "#f5ece6",
+          "nom": "Beige"
+        },
+        {
+          "hex": "#ECD3B7",
+          "nom": "Marine"
+        }
+      ],
+      "avis": 24
+    }
+  ],
+  "commandes": [
+    {
+      "id": "1",
+      "date": "2026-05-05",
+      "montant": 245
+    },
+    {
+      "id": "2",
+      "date": "2026-05-12",
+      "montant": 389
+    },
+    {
+      "id": "3",
+      "date": "2026-05-18",
+      "montant": 95
+    },
+    {
+      "id": "4",
+      "date": "2026-05-25",
+      "montant": 79
+    },
+    {
+      "id": "5",
+      "date": "2026-05-29",
+      "montant": 145
+    },
+    {
+      "id": "6",
+      "date": "2026-05-30",
+      "montant": 441
+    },
+    {
+      "id": "7",
+      "date": "2026-06-02",
+      "montant": 349
+    },
+    {
+      "id": "8",
+      "date": "2026-06-03",
+      "montant": 129
+    },
+    {
+      "id": "9",
+      "date": "2026-06-05",
+      "montant": 495
+    },
+    {
+      "id": "10",
+      "date": "2026-06-07",
+      "montant": 145
+    },
+    {
+      "id": "11",
+      "date": "2026-06-09",
+      "montant": 79
+    },
+    {
+      "id": "12",
+      "date": "2026-06-10",
+      "montant": 95
+    },
+    {
+      "id": "13",
+      "date": "2026-06-12",
+      "montant": 210
+    },
+    {
+      "id": "14",
+      "date": "2026-06-13",
+      "montant": 65
+    },
+    {
+      "id": "w6fl6fe10",
+      "date": "2026-06-15",
+      "montant": 748.58,
+      "articles": [
+        {
+          "produitId": 2,
+          "nom": "Manteau coton",
+          "quantite": 1,
+          "prix": 89.58
+        },
+        {
+          "produitId": 3,
+          "nom": "Sac à Main Structuré en pierre",
+          "quantite": 2,
+          "prix": 145
+        },
+        {
+          "produitId": 5,
+          "nom": "Manteau Minimaliste Beige",
+          "quantite": 1,
+          "prix": 129,
+          "taille": null,
+          "couleur": null
+        },
+        {
+          "produitId": 4,
+          "nom": "Pull Cachemire Nuit",
+          "quantite": 1,
+          "prix": 95,
+          "taille": null,
+          "couleur": null
+        },
+        {
+          "produitId": "3",
+          "nom": "Sac à Main Structuré en pierre",
+          "quantite": 1,
+          "prix": 145,
+          "taille": "Taille unique",
+          "couleur": "Cognac"
+        }
+      ],
+      "adresse": "foire",
+      "paiement": "PayPal"
+    }
+  ],
+  "favoris": [
+    {
+      "produitId": 3,
+      "id": "MQsFaEyhdlo"
+    },
+    {
+      "produitId": 4,
+      "id": "FjNXSzBS3tw"
+    },
+    {
+      "id": "8icx2rjs6",
+      "produitId": 1
+    }
+  ],
+  "panier": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
