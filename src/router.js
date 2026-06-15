@@ -72,8 +72,15 @@ const navigate = (path) => {
     window.location.hash = path;
 };
 
+// const handleHashChange = async () => {
+//     const path = window.location.hash.replace('#', '') || '/';
+//     await render(path);
+// };
 const handleHashChange = async () => {
     const path = window.location.hash.replace('#', '') || '/';
+
+    console.log("HASH PATH:", path);
+
     await render(path);
 };
 
